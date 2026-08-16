@@ -1,35 +1,34 @@
-﻿# JavaScript Calculator
+# JavaScript Calculator
 
-## Live Demo
+Interactive browser-based calculator built with HTML, CSS and vanilla JavaScript.
+
+## Live demo
 
 https://abla86.github.io/calculator/
 
-
-An interactive browser-based calculator built with HTML, CSS and JavaScript.
-
 ## Features
 
-- Basic arithmetic calculations
+- Basic arithmetic operations
 - Interactive browser interface
 - JavaScript event handling
 - Dynamic display updates
-- No external dependencies
+- No external runtime dependencies
 
-## Technologies
+## Technology
 
 - HTML5
 - CSS3
 - JavaScript
+- DOM API
 
-## Run Locally
+## Run locally
 
-Open index.html in a web browser.
+Open `index.html` in a modern browser.
 
 ## Purpose
 
-This project demonstrates JavaScript application logic, DOM interaction, event handling and frontend interface development.
+Demonstrates application logic, event handling, DOM interaction and basic frontend interface development.
 
 ## Author
 
-Anne Beth Andersen  
-GitHub: https://github.com/abla86
+Anne Beth Andersen
